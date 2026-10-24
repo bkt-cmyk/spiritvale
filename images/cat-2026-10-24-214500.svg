@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Marmalade the Stargazer</title>
+  <desc id="desc">Original vector illustration of a curious ginger cat perched on books inside a midnight conservatory, watching a glowing firefly under a crescent moon.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101c3c"/><stop offset="1" stop-color="#225461"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b3d58"/><stop offset="1" stop-color="#1b756e"/>
+    </linearGradient>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7b65d"/><stop offset=".58" stop-color="#ec8847"/><stop offset="1" stop-color="#bc5a42"/>
+    </linearGradient>
+    <linearGradient id="books" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#536d8c"/><stop offset="1" stop-color="#273d65"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#fff9b7" stop-opacity=".95"/>
+      <stop offset=".28" stop-color="#e8f99d" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#e8f99d" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="window"><path d="M180 920V405C180 187 345 91 600 91s420 96 420 314v515Z"/></clipPath>
+  </defs>
+  <rect width="1200" height="1200" fill="#111c31"/>
+  <path d="M90 0H1110V1200H90Z" fill="#182942"/>
+  <path d="M180 920V405C180 187 345 91 600 91s420 96 420 314v515Z" fill="url(#glass)" stroke="#b28c6e" stroke-width="23"/>
+  <g clip-path="url(#window)">
+    <rect x="150" y="75" width="900" height="880" fill="url(#night)"/>
+    <path d="M130 790Q340 635 580 750T1070 710V950H130Z" fill="#244c59"/>
+    <path d="M130 850Q410 750 610 855T1080 785V950H130Z" fill="#1a3a48"/>
+    <circle cx="850" cy="245" r="70" fill="#ffdf9b"/>
+    <circle cx="878" cy="220" r="68" fill="#142b46"/>
+    <g fill="#fbe6ae">
+      <circle cx="335" cy="275" r="4"/><circle cx="455" cy="182" r="3"/><circle cx="570" cy="300" r="4"/>
+      <circle cx="722" cy="153" r="3"/><circle cx="951" cy="375" r="4"/><circle cx="268" cy="458" r="3"/>
+      <circle cx="760" cy="420" r="2"/><circle cx="410" cy="390" r="3"/><circle cx="660" cy="250" r="2"/>
+    </g>
+    <g stroke="#d9e7bd" stroke-width="3" stroke-linecap="round" opacity=".72">
+      <path d="M345 225v24m-12-12h24"/><path d="M710 333v18m-9-9h18"/><path d="M933 484v18m-9-9h18"/>
+    </g>
+    <path d="M600 90V925M180 525H1020" stroke="#d0a17a" stroke-width="14" opacity=".6"/>
+    <path d="M188 425C230 210 376 125 600 125S968 210 1012 425" fill="none" stroke="#f0c99b" stroke-width="5" opacity=".3"/>
+  </g>
+  <path d="M160 924H1040" stroke="#d3ad83" stroke-width="30" stroke-linecap="round"/>
+  <path d="M90 940H1110V1200H90Z" fill="#25374d"/>
+  <path d="M0 1090Q280 1040 600 1090T1200 1090V1200H0Z" fill="#30475a"/>
+  <!-- Curving greenhouse foliage -->
+  <g fill="none" stroke="#5d9c7b" stroke-width="14" stroke-linecap="round">
+    <path d="M120 1050Q155 785 290 600"/>
+    <path d="M1090 1040Q1060 790 915 640"/>
+  </g>
+  <g fill="#397a65" stroke="#265b58" stroke-width="4">
+    <ellipse cx="160" cy="850" rx="35" ry="80" transform="rotate(-38 160 850)"/>
+    <ellipse cx="232" cy="755" rx="34" ry="75" transform="rotate(38 232 755)"/>
+    <ellipse cx="195" cy="952" rx="35" ry="76" transform="rotate(-58 195 952)"/>
+    <ellipse cx="1030" cy="865" rx="37" ry="82" transform="rotate(36 1030 865)"/>
+    <ellipse cx="969" cy="752" rx="32" ry="75" transform="rotate(-35 969 752)"/>
+    <ellipse cx="1015" cy="975" rx="36" ry="80" transform="rotate(58 1015 975)"/>
+  </g>
+  <g fill="#e4a26c">
+    <path d="M94 1015H258L240 1120H112Z"/>
+    <path d="M943 1015H1107L1089 1120H961Z"/>
+  </g>
+  <g fill="#c47e62"><path d="M87 1000H265V1027H87Z"/><path d="M936 1000H1114V1027H936Z"/></g>
+  <!-- Stack of treasured books -->
+  <g stroke="#172c43" stroke-width="7" stroke-linejoin="round">
+    <path d="M350 1042Q600 1026 850 1042L839 1093Q600 1108 360 1093Z" fill="#a96976"/>
+    <path d="M383 1001Q600 983 813 1001L804 1044Q600 1057 390 1044Z" fill="#d2ae75"/>
+    <path d="M345 956Q600 939 856 956L847 1006Q600 1022 354 1006Z" fill="url(#books)"/>
+  </g>
+  <g stroke="#e9d5a7" stroke-width="5" opacity=".85">
+    <path d="M400 1022Q600 1008 798 1022"/><path d="M365 1070Q600 1055 836 1070"/>
+    <path d="M368 983Q600 967 834 983"/>
+  </g>
+  <g fill="#e9bd7d"><circle cx="480" cy="979" r="6"/><circle cx="500" cy="978" r="6"/><circle cx="520" cy="978" r="6"/></g>
+  <!-- Sweeping curled tail behind the cat -->
+  <path d="M706 881Q830 855 853 942Q870 1010 798 1017Q755 1018 750 982Q750 951 781 951" fill="none" stroke="#aa543d" stroke-width="70" stroke-linecap="round"/>
+  <path d="M706 874Q823 855 840 939Q851 989 795 995" fill="none" stroke="#ec9953" stroke-width="45" stroke-linecap="round"/>
+  <path d="M803 879Q825 892 834 911M830 960Q822 972 810 980" stroke="#aa543d" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- Cat body -->
+  <path d="M460 740Q439 814 461 944Q471 993 596 995Q718 994 727 935Q739 816 692 736Z" fill="url(#fur)" stroke="#8e493c" stroke-width="9"/>
+  <path d="M550 763Q510 831 528 928Q541 962 600 964Q659 961 670 925Q687 825 641 764Z" fill="#f9dfb7"/>
+  <path d="M481 831Q497 848 502 879M698 826Q682 846 682 875" fill="none" stroke="#b96042" stroke-width="13" stroke-linecap="round"/>
+  <path d="M498 932Q485 973 513 993H575Q590 970 568 936Z" fill="#f5b66d" stroke="#9f573f" stroke-width="6"/>
+  <path d="M625 936Q609 971 625 994H683Q715 972 691 932Z" fill="#f5b66d" stroke="#9f573f" stroke-width="6"/>
+  <g stroke="#bb6d4c" stroke-width="5" stroke-linecap="round">
+    <path d="M529 980v12M549 981v12M653 981v12M673 980v12"/>
+  </g>
+  <!-- Pointed ears, then expressive face -->
+  <path d="M427 527L433 357Q441 326 462 344L548 436L661 430L736 347Q761 326 766 360L766 539Z" fill="url(#fur)" stroke="#8e493c" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M453 471L454 384L517 458Z" fill="#b95e65"/>
+  <path d="M682 459L742 387L741 476Z" fill="#b95e65"/>
+  <path d="M413 537Q414 438 588 433Q777 430 782 566Q790 699 698 756Q605 815 493 754Q400 700 413 537Z" fill="url(#fur)" stroke="#8e493c" stroke-width="10"/>
+  <!-- Forehead and cheek stripes -->
+  <g fill="none" stroke="#b9623f" stroke-width="14" stroke-linecap="round">
+    <path d="M548 463Q557 496 550 513"/><path d="M593 454V508"/><path d="M638 463Q627 491 636 512"/>
+    <path d="M429 588Q466 590 483 606"/><path d="M443 642Q470 635 491 646"/>
+    <path d="M768 586Q731 587 711 607"/><path d="M754 642Q728 634 707 646"/>
+  </g>
+  <!-- Big jade eyes -->
+  <ellipse cx="519" cy="594" rx="48" ry="57" fill="#f9e8c4"/>
+  <ellipse cx="677" cy="594" rx="48" ry="57" fill="#f9e8c4"/>
+  <ellipse cx="527" cy="600" rx="27" ry="45" fill="#2c826f"/>
+  <ellipse cx="672" cy="600" rx="27" ry="45" fill="#2c826f"/>
+  <ellipse cx="532" cy="600" rx="10" ry="39" fill="#152f3d"/>
+  <ellipse cx="677" cy="600" rx="10" ry="39" fill="#152f3d"/>
+  <circle cx="516" cy="579" r="10" fill="#fffaf0"/><circle cx="660" cy="579" r="10" fill="#fffaf0"/>
+  <path d="M478 539Q518 516 555 541M641 542Q676 519 717 540" fill="none" stroke="#8e493c" stroke-width="9" stroke-linecap="round"/>
+  <!-- Cream muzzle and tiny smile -->
+  <ellipse cx="554" cy="685" rx="58" ry="42" fill="#ffe4bd"/>
+  <ellipse cx="646" cy="685" rx="58" ry="42" fill="#ffe4bd"/>
+  <path d="M577 664Q600 652 623 664Q615 681 600 685Q585 680 577 664Z" fill="#a9545c"/>
+  <path d="M600 685V704M600 704Q578 729 554 704M600 704Q622 729 646 704" fill="none" stroke="#8e493c" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#a75a49"><circle cx="515" cy="685" r="4"/><circle cx="531" cy="695" r="4"/><circle cx="684" cy="685" r="4"/><circle cx="669" cy="695" r="4"/></g>
+  <g fill="none" stroke="#ffe5bd" stroke-width="4" stroke-linecap="round">
+    <path d="M534 694Q442 671 394 684M531 708Q450 711 405 733M665 694Q756 672 805 681M667 708Q751 710 794 734"/>
+  </g>
+  <!-- One curious firefly, with rings of warm light -->
+  <circle cx="875" cy="618" r="98" fill="url(#glow)"/>
+  <path d="M861 608Q838 578 851 568Q872 563 876 598M885 608Q908 578 897 569Q878 564 879 598" fill="#b9e7cb" opacity=".85"/>
+  <ellipse cx="878" cy="622" rx="12" ry="18" fill="#fff1a3"/>
+  <circle cx="875" cy="616" r="6" fill="#fffef1"/>
+  <g stroke="#e9f4bb" stroke-width="4" stroke-linecap="round"><path d="M874 516v18M823 558l13 12M928 558l-13 12M941 625h-18"/></g>
+  <!-- A little constellation motif on the floor -->
+  <g fill="#d8b889" opacity=".7"><circle cx="315" cy="1122" r="4"/><circle cx="290" cy="1150" r="3"/><circle cx="338" cy="1160" r="3"/></g>
+  <path d="M315 1122L290 1150L338 1160" fill="none" stroke="#d8b889" stroke-width="2" opacity=".5"/>
+  <path d="M95 1180H1105" stroke="#b88b73" stroke-width="5" opacity=".45"/>
+</svg>
