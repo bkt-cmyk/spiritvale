@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Sticker LINE V2"
+  short_description: "Create and review pixel-art LINE stickers"
+  default_prompt: "Use $pixel-sticker-line-v2 and its reusable production workflow to create and validate a pixel-art LINE sticker set."
